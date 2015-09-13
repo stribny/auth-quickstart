@@ -51,4 +51,5 @@ A basic set of Nightwatch end-to-end tests is provided. To run the tests, first 
 ## License
 
 Author: [Petr Stříbný](http://stribny.name)
+
 License: The MIT License (MIT)
