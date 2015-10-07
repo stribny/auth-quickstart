@@ -8,6 +8,8 @@ This is a quick-start application that demonstrates basic authentication using P
 * [Handlebars](http://handlebarsjs.com/)
 * and [Nightwatch](http://nightwatchjs.org/)
 
+I wrote a blog post [Authentication Quickstart with Express, Passport and Sequelize](http://stribny.name/blog/2015/09/authentication-quickstart-with-express-passport-and-sequelize) about this quick-start.
+
 ## Requirements
 
 As it is a Node application, you will need Node.js installed. 
